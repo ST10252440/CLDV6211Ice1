@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ice1 CLDV ImageGallery.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ice1 CLDV ImageGallery.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\Images\\le artiste.jpg",
+      "PackagePath": "staticwebassets\\Images\\le artiste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\2c102ecc-cd98-4faf-aed4-12cdd5a38d57.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2c102ecc-cd98-4faf-aed4-12cdd5a38d57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\52474029-a901-415a-88ba-697f28d5642c.webp",
+      "PackagePath": "staticwebassets\\uploads\\52474029-a901-415a-88ba-697f28d5642c.webp"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\5d3435cb-0947-4ab3-a9e4-6a20f3d17149.webp",
+      "PackagePath": "staticwebassets\\uploads\\5d3435cb-0947-4ab3-a9e4-6a20f3d17149.webp"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\724af94e-48b7-47ad-ab94-abf79a6dc93f.webp",
+      "PackagePath": "staticwebassets\\uploads\\724af94e-48b7-47ad-ab94-abf79a6dc93f.webp"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\736a141d-32f4-4ad8-94a5-7652edb5ea1b.webp",
+      "PackagePath": "staticwebassets\\uploads\\736a141d-32f4-4ad8-94a5-7652edb5ea1b.webp"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\9b721689-bb1e-4b2f-ad7c-d3a091a1200d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9b721689-bb1e-4b2f-ad7c-d3a091a1200d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\e7cc6a15-490b-4490-8591-28d63e1dd438.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\e7cc6a15-490b-4490-8591-28d63e1dd438.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kianc\\source\\repos\\Ice1 CLDV ImageGallery\\Ice1 CLDV ImageGallery\\wwwroot\\uploads\\f1aa8363-176a-4696-bd8b-14f1ddc4d09a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f1aa8363-176a-4696-bd8b-14f1ddc4d09a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ice1 CLDV ImageGallery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ice1 CLDV ImageGallery.props",
+      "PackagePath": "build\\Ice1 CLDV ImageGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ice1 CLDV ImageGallery.props",
+      "PackagePath": "buildMultiTargeting\\Ice1 CLDV ImageGallery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ice1 CLDV ImageGallery.props",
+      "PackagePath": "buildTransitive\\Ice1 CLDV ImageGallery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

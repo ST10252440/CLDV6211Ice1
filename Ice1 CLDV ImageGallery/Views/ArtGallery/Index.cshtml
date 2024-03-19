@@ -1,0 +1,44 @@
+﻿<div>
+    @using(Html.BeginForm("Index", "ArtGallery", FormMethod.Post, new {enctype = "multipart/form-data"}))
+    {
+        <div class="row">
+            <div class="form-group col-md-6" style="font-family: Lucida Handwriting">
+                <input type="file" class="form-control" name="file"/>
+            </div>
+            <div class="form-group col-md-6" style="font-family: Lucida Handwriting">
+                <input type="submit" class="form-control" name="submit" value="Upload" />
+            </div>
+        </div>
+    }
+</div>
+
+<br />
+
+<div class="container">
+    <div class="container">
+        <div class="card border-bottom-0 font-bold">
+            <div class="card-header fw-bold border-primary text-center" style="font-family: Lucida Handwriting">
+                Art Gallery
+            </div>
+            <div class="row">
+                @if(Model != null)
+                {
+                    @foreach (var artFileName in Model)
+                    {
+                    <div class="col-md-3 text-center">
+                        <div class="alert alert-dark">
+                            <img src="~/uploads/@artFileName" height="150" width="250" />
+                        </div>
+                    </div>                        
+                    }
+                } 
+                else
+                {
+                    <div style="font-family: Lucida Handwriting">
+                        Please select an artwork to add.
+                    </div>
+                }
+        </div>
+
+    </div>
+</div>

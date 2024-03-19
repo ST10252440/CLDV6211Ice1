@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ice1 CLDV ImageGallery.props" />
+</Project>

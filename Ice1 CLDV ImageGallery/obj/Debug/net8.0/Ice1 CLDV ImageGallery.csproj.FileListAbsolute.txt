@@ -1,0 +1,30 @@
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\appsettings.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.staticwebassets.runtime.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.exe
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.deps.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.runtimeconfig.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.dll
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\bin\Debug\net8.0\Ice1 CLDV ImageGallery.pdb
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.AssemblyInfoInputs.cache
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.AssemblyInfo.cs
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.csproj.CoreCompileInputs.cache
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.RazorAssemblyInfo.cache
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.RazorAssemblyInfo.cs
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets\msbuild.Ice1 CLDV ImageGallery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets\msbuild.build.Ice1 CLDV ImageGallery.props
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ice1 CLDV ImageGallery.props
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ice1 CLDV ImageGallery.props
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\scopedcss\bundle\Ice1 CLDV ImageGallery.styles.css
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\scopedcss\projectbundle\Ice1 CLDV ImageGallery.bundle.scp.css
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.dll
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\refint\Ice1 CLDV ImageGallery.dll
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.pdb
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\Ice1 CLDV ImageGallery.genruntimeconfig.cache
+C:\Users\kianc\source\repos\Ice1 CLDV ImageGallery\Ice1 CLDV ImageGallery\obj\Debug\net8.0\ref\Ice1 CLDV ImageGallery.dll
